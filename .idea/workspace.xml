@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="218242c7-d8d1-4588-a595-491134bf4fb2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hakamada/anzen/core/list/CachedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hakamada/anzen/core/list/Linked.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hakamada/anzen/core/v1/Anzen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hakamada/anzen/core/v2/CacheHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hakamada/anzen/core/v3/V3CachedHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hakamada/anzen/model/Cache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hakamada/anzen/model/CacheLimitSizeCantBeZeroExcetion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hakamada/anzen/model/CachedItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hakamada/anzen/model/Strategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/hakamada/anzen/AnzenTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/hakamada/anzen/CacheHolderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/hakamada/anzen/CacheHolderV3Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/hakamada/anzen/LinkedTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2M3F11vbShIcyoeGsrGRDr9TVjk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hakamada.anzen" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.LinkedTest.testOverrideValue">
+    <configuration name="AnzenTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="anzen" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hakamada.anzen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hakamada.anzen" />
+      <option name="MAIN_CLASS_NAME" value="com.hakamada.anzen.AnzenTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="anzen" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hakamada.anzen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hakamada.anzen" />
+      <option name="MAIN_CLASS_NAME" value="com.hakamada.anzen.LinkedTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedTest.testGetByKey" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="anzen" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hakamada.anzen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hakamada.anzen" />
+      <option name="MAIN_CLASS_NAME" value="com.hakamada.anzen.LinkedTest" />
+      <option name="METHOD_NAME" value="testGetByKey" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedTest.testOverrideValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="anzen" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hakamada.anzen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hakamada.anzen" />
+      <option name="MAIN_CLASS_NAME" value="com.hakamada.anzen.LinkedTest" />
+      <option name="METHOD_NAME" value="testOverrideValue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedTest.testRemoveByKey" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="anzen" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hakamada.anzen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hakamada.anzen" />
+      <option name="MAIN_CLASS_NAME" value="com.hakamada.anzen.LinkedTest" />
+      <option name="METHOD_NAME" value="testRemoveByKey" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LinkedTest.testOverrideValue" />
+        <item itemvalue="JUnit.LinkedTest" />
+        <item itemvalue="JUnit.AnzenTest" />
+        <item itemvalue="JUnit.LinkedTest.testRemoveByKey" />
+        <item itemvalue="JUnit.LinkedTest.testGetByKey" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="218242c7-d8d1-4588-a595-491134bf4fb2" name="Changes" comment="" />
+      <created>1676988143699</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676988143699</updated>
+      <workItem from="1676988144900" duration="17304000" />
+      <workItem from="1677076834666" duration="13043000" />
+      <workItem from="1677333563551" duration="3743000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/hakamada/anzen/CacheHolderV3Test.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/hakamada/anzen/LinkedTest.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hakamada/anzen/core/list/Linked.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
